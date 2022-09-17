@@ -1,0 +1,8 @@
+https://github.com/Harikachinmayyy/y21-s11.git
+
+git clone our repository link----it makes us to type code into our repository
+
+git status
+
+git add -A--to add all files
+
